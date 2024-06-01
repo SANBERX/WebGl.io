@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="CAjitaAG" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="CAjitaAGs_assembly" assemblyId="b8c63e22da53491f90d048a395c5eb5b">
+<Part name="CAjitaAG" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0313567 1.19312 0.987163" rotation="AD: 1 -0.000353392 -0.268837 179.855" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
